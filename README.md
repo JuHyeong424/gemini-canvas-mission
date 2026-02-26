@@ -80,7 +80,7 @@ https://gemini.google.com/share/93cd08293eb3
 
 ## 앱 이름: 친해지길 바래
 ## 카테고리: 페어 프롬프트 릴레이
-## 페어: 도넛, 벤지, 지오
+## 페어: @geongyu09, @JuHyeong424, @hjkim0905
 
 ### 배포 링크
 https://gemini.google.com/share/315a934178f0
